@@ -1,0 +1,28 @@
+<table class="asn_table">
+
+<tr>
+  <th class="asn_num"  >num</th>
+  <th class="asn_num"  >num_pdf</th>
+  <th class="asn_ready">ready?</th>
+  <th class="asn_desc" >description</th>
+  <th class="asn_assigned" >assigned</th>
+  <th class="asn_due" >due</th>
+</tr>
+
+{% for hw in site.hwk %}
+
+<tr class={% if hw.ready %}"ready"{% else %}"not-ready"{% endif %} >
+  <td class="simplifiedhw_num" ><a href="{{hw.url | relative_url }}" data-ajax="false">{{ hw.num }}</a></td>
+  <td class="simplifiedhw_num_pdf"  ><a href="{{hw.hwpdf | relative_url }}" data-ajax="false">{{ hw.num }}</a></td>
+  <td class="simplifiedhw_ready">{{hw.ready}}</td>
+  <td class="simplifiedhw_desc" >{{hw.desc }}</td>
+  <td class="simplifiedhw_assigned" >{{hw.assigned | date: "%a %m/%d %I:%M%p" }}</td>
+  <td class="simplifiedhw_due" >{{hw.due | date: "%a %m/%d %I:%M%p" }}</td>
+</tr>
+
+{% if hw.last_before %}
+<tr><th colspan="5">{{hw.last_before}}</th></tr>
+{% endif %}
+
+{% endfor %}
+</table>

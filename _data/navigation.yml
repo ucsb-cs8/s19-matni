@@ -1,0 +1,67 @@
+production_url: https://ucsb-cs8.github.io
+
+home:
+   title: UCSB CS8
+   url: /
+   baseurl: /
+
+main_dropdown:
+   title: Resources
+   items:
+     - title: "CS8 or CS16?"
+       url: /8-or-16/
+     - title: Textbooks
+       url: /textbooks_list/       
+     - title: Python Topics
+       url: /ptopic_list/
+     - title: Other Topics
+       url: /topic_list/
+     - title: Resources
+       url: /resources_list/
+     - title: Tutorials
+       url: /tutorials_list/
+
+
+offerings:
+   title: "S19 Matni"
+   url: /	
+   baseurl: /s19-matni
+   items:
+      - title: "S19 Matni"
+        url: /
+        baseurl: /s19-matni
+
+offering_links:
+  - title: Hwk
+    url: /hwk_list/
+    description: "Homework Assignments"
+  - title: Lab
+    url: /lab_list/
+    description: "Lab Assignments"
+  - title: Exam
+    url: /exam_list/
+    description: "Exams"
+  - title: Cal
+    url: /info/calendar/
+    description: "Assignment Calendar"
+  - title: More
+    dropdown:
+       - title: Syllabus
+         url: /info/syllabus/
+         description: "Syllabus"    
+       - title: Info Pages
+         url: /info_list/
+         description: "List of General Information Pages"
+  - title: Links
+    dropdown:	 
+       - title: Gauchospace
+         url: https://gauchospace.ucsb.edu
+         description: "Overall Grade Information"
+       - title: GradeScope
+         url: https://gradescope.com
+         description: "HW and Lab Grades"
+       - title: Piazza
+         url: https://piazza.com
+         description: "Q&A Forum"
+
+
