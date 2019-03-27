@@ -16,7 +16,9 @@ Basic Facts
 
 <p><font size="5">READ THE FULL SYLLABUS! PDF IS AT:</font></p>
 <h2><font color="red">
+<div markdown="1">
 [THIS LINK](http://cs.ucsb.edu/~zmatni/syllabi/CS8S19_syllabus.pdf){:target="_blank"}
+</div>
 </font></h2>
 Syllabus Not Ready Yet
 
