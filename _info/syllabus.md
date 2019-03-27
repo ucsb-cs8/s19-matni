@@ -15,8 +15,8 @@ Basic Facts
     * TAs        :      TBA
 
 <p><font size="5">READ THE FULL SYLLABUS! PDF IS AT:</font></p>
-<h2>
+<h2><font color="red">
 [THIS LINK](http://cs.ucsb.edu/~zmatni/syllabi/CS8S19_syllabus.pdf){:target="_blank"}
+</font></h2>
 Syllabus Not Ready Yet
-</h2>
 
