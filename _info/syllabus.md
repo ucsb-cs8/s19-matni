@@ -14,7 +14,7 @@ Basic Facts
     * Prof. Matni:      TBA
     * TAs        :      TBA
 
-READ THE FULL SYLLABUS! PDF IS AT: 
+<p><font size="5">READ THE FULL SYLLABUS! PDF IS AT:</font></p>
 <h2>
 [THIS LINK](http://cs.ucsb.edu/~zmatni/syllabi/CS8S19_syllabus.pdf){:target="_blank"}
 Syllabus Not Ready Yet
