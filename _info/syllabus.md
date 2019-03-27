@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPSC 8, Spring 2019, Z. Matni"
+title: "Syllabus, CMPSC 8, Spring 2019, Z. Matni --- PLEASE READ"
 ---
 
 Basic Facts
@@ -12,10 +12,11 @@ Basic Facts
 * **Lab**: (50 minute discussion section) {{site.discussion_section_times}}, Phelps 3525. ATTENDANCE REQUIRED.                                         
 * **Office Hours**:
     * Prof. Matni:      TBA
-    * TA xxx
+    * TAs        :      TBA
 
 <h2>
-READ THE FULL SYLLABUS! PDF IS AT [THIS LINK](http://cs.ucsb.edu/~zmatni/syllabi/CS8S19_syllabus.pdf){:target="_blank"}
+READ THE FULL SYLLABUS! PDF IS AT: 
+<p>[THIS LINK](http://cs.ucsb.edu/~zmatni/syllabi/CS8S19_syllabus.pdf){:target="_blank"}</p>
 Syllabus Not Ready Yet
 </h2>
 
