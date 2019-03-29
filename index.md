@@ -6,7 +6,7 @@ title: "CS8, S19, Matni"
 ## {{site.course}} {{site.quarter}}, Prof. Matni
 <br>
 
-## Class Information
+### Class Information
 <div class="card card-body">
  {% include info_list.html %}
 </div>
