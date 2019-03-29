@@ -11,22 +11,22 @@ title: "CS8, S19, Matni"
  {% include info_list.html %}
 </div>
 
-## Lecture Notes and Slides
+### Lecture Notes and Slides
 <div class="card card-body" markdown="1">
   {%include lecnot_table.html %}
 </div>
 
-## Homework Assignments
+### Homework Assignments
 <div class="card card-body">
  {% include simplifiedhw_table.html %}
 </div>
 
-## Lab Assignments
+### Lab Assignments
 <div class="card card-body">
  {% include lab_table.html %}
 </div>
 
-## Exam Information
+### Exam Information
 <div class="card card-body">
  {%include exam_table.html %}
 </div>
