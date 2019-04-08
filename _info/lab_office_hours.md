@@ -18,8 +18,5 @@ ready: true
 <style>
 iframe { width: 100%;height:880px; overflow: scroll; }  
 </style>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSJ_V06VJ4RXU4ulR2aJZuZVwxzuawav5BpmBvxz8Merd_LxNLQwQzasZk4M2fGqdgXQyodfWqo3EBR/pubhtml?widget=true&amp;headers=false"></iframe>
 
- 
-/*
-<iframe src="http://bit.ly/cs8labhours"></iframe>
-*/
