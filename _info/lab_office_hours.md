@@ -12,7 +12,7 @@ ready: true
 
 # Lab Hours
 
-* Closed labs will be held in Phelps 3525 on {{ site.lab_times}}.
+* Closed labs will be held in Phelps 3525 on Mondays 8 AM, 9AM, 10AM, and 11AM.
 * Open labs:
 
 <style>
