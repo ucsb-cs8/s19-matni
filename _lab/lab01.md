@@ -3,8 +3,8 @@ layout: lab
 num: lab01
 ready: true
 desc: "FtoC and CtoF with test cases"
-assigned: 2019-1-15 13:00:00.00-7
-due: 2019-1-18 23:59:00.00-7
+assigned: 2019-4-15 08:00:00.00-7
+due: 2019-4-21 23:59:00.00-7
 ---
 
 ## Goals
@@ -17,9 +17,11 @@ In this lab, you'll practice:
 * Running those test cases
 * Submitting your functions and test cases to Gradescope for grading
 
-Refer to lecture 3 and also lecture 4 (and chapter 2 in the book) to help you along with this lab.
+Refer to lectures 3 and also lecture 4 (and chapter 2 in the book) to help you along with this lab.
 
 ## This lab must be done solo
+
+Read ALL the instructions carefully and use your time in the lab wisely.
 
 ## Step 0: Install pytest for your account (or on your machine)
 
@@ -181,8 +183,7 @@ As a reminder:
 * `cd` returns you to your home directory (e.g. `/cs/student/cgaucho/`)
 * `pwd` prints your current working directory
 * `cd cs8` changes into the cs8 directory under the current directory
-* `cd ~/cs8` changes into the cs8 directory under your home directory <em>regardless of the current working directory (because `~` is a shortcut for the absolute path of
-   your home directory.)
+* `cd ~/cs8` changes into the cs8 directory under your home directory <em>regardless of the current working directory (because `~` is a shortcut for the absolute path of your home directory.)</em>
 * `cd ..` will move you up one directory from your current directory. 
 * `mkdir {{page.num}}` will create a {{page.num}} directory under your current working directory
 * `ls` lists the files in your current directory
