@@ -1,6 +1,6 @@
 ---
 num: "lect09"
-lecture_date: 2019-04-29
+lecture_date: 2019-04-30
 desc: "More exercises with loops ; Turtle graphics"
 ready: true
 pdfurl: /lectures/pdf/lect09.pdf
