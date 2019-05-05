@@ -3,8 +3,8 @@ layout: lab
 num: lab04
 ready: true
 desc: "Conditionals, nested control structures, and loops"
-assigned: 2019-6-6 08:00:00:00.00-7
-due: 2019-6-12 23:59:00.00-7
+assigned: 2019-5-6 08:00:00:00.00-7
+due: 2019-5-12 23:59:00.00-7
 ---
 
 THIS LAB IS DUE ON Sunday, May 12th BY 11:59 PM!
