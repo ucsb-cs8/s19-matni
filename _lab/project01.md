@@ -468,4 +468,4 @@ To submit your code, navigate to the page on Gradescope.com for submitting {{pag
 
 If you got all green, and 10 points, then your submission was accepted---but to emphasize, for this project, the other 90 points will be assigned by a human grader.
 
-**Created by Diba Mirza, with updates/edits from Phill Conrad and Ziad Matni**
+*Created by Diba Mirza, with updates/edits from Phill Conrad and Ziad Matni*
