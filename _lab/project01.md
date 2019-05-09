@@ -3,7 +3,7 @@ layout: lab
 num: project01
 ready: true
 desc: "Turtle Graphics: Scene from a forest"
-assigned: 2019-5-07 14:00:00.00-7
+assigned: 2019-5-09 14:00:00.00-7
 due: 2019-6-02 23:59:00.00-8
 prev_lab: lab03
 prev_lab_solution_url: https://github.com/ucsb-cs8-f18/ucsb-cs8-f18.github.io/blob/master/_lab/project01/basicShapes.py
@@ -468,4 +468,4 @@ To submit your code, navigate to the page on Gradescope.com for submitting {{pag
 
 If you got all green, and 10 points, then your submission was accepted---but to emphasize, for this project, the other 90 points will be assigned by a human grader.
 
-Created by Diba Mirza, with updates/edits from Phill Conrad and Ziad Matni
+**Created by Diba Mirza, with updates/edits from Phill Conrad and Ziad Matni**
