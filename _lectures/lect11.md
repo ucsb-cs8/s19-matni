@@ -65,7 +65,7 @@ bob
 This person's name is: bob , aged 30
 
 >>> jenn = Person(name="Jenn", age=22, gender="Female")
->>> gorgon = Person(name="Gorgon, destroyer of worlds, harvester of souls", age = 666666, gender="You Fools! You shall all perish!")
+>>> gorgon = Person(name="Gorgon, destroyer of worlds, harvester of souls", age = 666666, gender="You Fools!!")
 >>> for p in (bob, jenn, gorgon):
 	print("This person's name is:", p.name)
 	print("Their gender is:", p.gender)
@@ -81,7 +81,7 @@ Their gender is: Female
 Double their age is: 44
 
 This person's name is: Gorgon, destroyer of worlds, harvester of souls
-Their gender is: You Fools! You shall all perish!
+Their gender is: You Fools!! 
 Double their age is: 1333332
 
 >>> type(bob)
