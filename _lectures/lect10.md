@@ -1,6 +1,6 @@
 ---
 num: "lect10"
-lecture_date: 2019-04-30
+lecture_date: 2019-05-07
 desc: "Debugging using Loop Exercises; String Delimiters and Formats"
 ready: true
 pdfurl: /lectures/pdf/lect10.pdf
