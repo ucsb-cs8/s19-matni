@@ -68,7 +68,7 @@ So, how did our program know which letter combinations were valid words?......We
 
 You can choose to start from scratch or use the starter code we have provided here (you may need to refresh the page if the links do not load immediately):
 * [lab06.py](lab06.py)
-* [lab06_student_tests.py](lab06_student_tests.pt)
+* [lab06_student_tests.py](lab06_student_tests.py)
 
 ### Functions to Implement:
 
