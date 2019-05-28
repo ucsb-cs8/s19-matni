@@ -3,7 +3,7 @@ layout: lab
 num: lab06
 ready: true
 desc: "Scrabble word finder: Python lists, dictionaries and file I/O"
-assigned: 2019-05-26 08:00:00.00-7
+assigned: 2019-05-28 08:00:00.00-7
 due: 2019-06-06 23:59:00.00-7
 ---
 
