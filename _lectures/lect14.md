@@ -2,7 +2,7 @@
 num: "lect14"
 lecture_date: 2019-05-28
 desc: "Dictionaries"
-ready: false
+ready: true
 pdfurl: /lectures/pdf/lect14.pdf
 annotatedready: false
 ---
