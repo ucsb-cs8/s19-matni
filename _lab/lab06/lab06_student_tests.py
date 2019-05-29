@@ -1,12 +1,12 @@
-# lab07_student_tests.py - Tests for CS8 lab07
+# lab06_student_tests.py - Tests for CS8 lab06
 
 import pytest
 '''
-  You should write your own test cases using pytest. 
-  Here are some examples for each function to test: 
+  You should write your own test cases using pytest.
+  Here are some examples for each function to test:
 '''
 
-from lab07 import createWordList
+from lab06 import createWordList
 
 #### Write tests for createWordList ####
 
@@ -24,7 +24,7 @@ def test_createWordList_0():
   # creates a list of words correctly.
   newlist = createWordList('test_file_0.txt')
   assert(len(newlist) == len(words))
-  
+
   for i in range(len(words)):
     assert(words[i] == newlist[i])
 
@@ -34,7 +34,7 @@ def test_createWordList_1():
 
 #...
 
-from lab07 import canWeMakeIt
+from lab06 import canWeMakeIt
 
 #### Write tests for canWeMakeIt ####
 
@@ -50,7 +50,7 @@ def test_canWeMakeIt_1():
 
 #### Write tests for getWordPoints ####
 
-from lab07 import getWordPoints
+from lab06 import getWordPoints
 letterPoints = {'a':1, 'b':3, 'c':3, 'd':2, 'e':1, 'f':4,\
                 'g':2, 'h':4, 'i':1, 'j':8, 'k':5, 'l':1,\
                 'm':3, 'n':1, 'o':1, 'p':3, 'q':10, 'r':1,\
