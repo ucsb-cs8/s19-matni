@@ -2,5 +2,6 @@
 
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
-rvm use ruby-2.5.1
-bundle exec jekyll serve
+rvm use 2.5.1 --install --binary --fuzzy
+bundle install --jobs=3 --retry=3
+bundle exec jekyll serve $@

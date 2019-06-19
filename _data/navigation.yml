@@ -27,9 +27,24 @@ offerings:
    url: /	
    baseurl: /s19-matni
    items:
+      - title: "W19 Matni"
+        url: /
+        baseurl: /w19-matni
+      - title: "W19 Mirza"
+        url: /
+        baseurl: /w19-mirza
+      - title: "W19 Conrad"
+        url: /
+        baseurl: /w19-conrad
       - title: "S19 Matni"
         url: /
         baseurl: /s19-matni
+      - title: "M19 ElSherif"
+        url: /
+        baseurl: /m19-elsherif
+      - title: "M19 Wang"
+        url: /
+        baseurl: /m19-wang
 
 offering_links:
   - title: Hwk
